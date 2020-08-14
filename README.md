@@ -1,5 +1,8 @@
 # iSmartDNN
-This is a repository for FPGA-based neural network inference of iSmart2 team of Design Automation Conference 2018 (https://www.dac.com/content/2018-system-design-contest). iSmart2 teammembers are from UIUC, the Boeing company, IBM and Inspirit Iot.
+This is a repository for FPGA-based neural network inference of iSmart2 team of Design Automation Conference 2018  
+(https://www.dac.com/content/2018-system-design-contest).  
+
+iSmart2 teammembers are from UIUC, the Boeing company, IBM and Inspirit Iot.
 
 
 # Repo organization
